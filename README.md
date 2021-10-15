@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Bruce**.
 - 👀 I’m interested in **Computer Science**.
-- 🌱 I’m currently learning **Artificial Intelligence**.
+- 🌱 I’m currently researching **Artificial Intelligence**.
 - 💞️ I’m looking to collaborate on **ROS**.
 - 📫 You can reach me via e-mail at **i@bbc.llc**
 - or join this [**discord server**](https://discord.gg/5eQ2tc2Htn)
