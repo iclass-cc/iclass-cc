@@ -3,7 +3,7 @@
 - 🌱 I’m currently researching **Artificial Intelligence**.
 - 💞️ I’m looking to collaborate on **ROS**.
 - 📫 You can reach me via e-mail at **i@bbc.llc**
-- or join this [**discord server**](https://discord.gg/5eQ2tc2Htn)
+- or join this [**community**](https://discord.gg/5eQ2tc2Htn)
 
 <!---
 iclass-cc/iclass-cc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
