@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Computer Science**.
 - 🌱 I’m currently researching **Artificial Intelligence**.
 - 💞️ I’m looking to collaborate on **ROS**.
-- 📫 You can reach me via e-mail at **i@bbc.llc**
+- 📫 You can reach me via e-mail at **e@TenetAi.in**
 - or join [**this community**](https://discord.gg/5eQ2tc2Htn)
 
 <!---
