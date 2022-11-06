@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Bruce**.
+- 🏌️ I’m **Bruce**.
 - 👀 I’m interested in **Natural Science**.
 - 🌱 I’m currently working on **Artificial Intelligence**.
 - 💞️ I’m looking to collaborate on **ROS**.
